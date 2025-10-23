@@ -1,1 +1,1 @@
-<img src="Kaoruko GIF (2).gif" width="600" />
+<img src="Kaoruko GIF (2).gif" height="600" width="1200" />
