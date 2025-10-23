@@ -1,1 +1,1 @@
-# anime-profil
+![Kaoruko Waguri](images/waguri.gif)
